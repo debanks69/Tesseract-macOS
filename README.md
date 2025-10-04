@@ -3,6 +3,7 @@
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/scott0123/Tesseract-macOS/blob/master/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/scott0123/Tesseract-macOS.svg?style=social&label=Stars)](https://github.com/scott0123/Tesseract-macOS)
 
+Test SSh depuis MacBoook
 
 This is an open-source macOS-based Objective-C wrapper for the OCR library *Tesseract*.
 
